@@ -1,3 +1,4 @@
+#run this file
 from Board import Board
 
 Mainboard = Board()
@@ -18,8 +19,3 @@ while True:
         break
     elif winner == -1:
         player = not player
-
-
-
-
-
