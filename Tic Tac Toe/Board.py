@@ -1,3 +1,4 @@
+#download this file
 import numpy as np
 from copy import deepcopy 
 class Board:
@@ -163,31 +164,3 @@ class Board:
                 winner = -1
 
         return winner
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
